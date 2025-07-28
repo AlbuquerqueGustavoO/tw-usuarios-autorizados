@@ -7,5 +7,6 @@
   { "expirationDate": "31/12/2025", "userName": "Morcegruz" },
   { "expirationDate": "31/12/2025", "userName": "Bulbasaur" },
   { "expirationDate": "31/12/2025", "userName": "ShadoWolfer" },
-  { "expirationDate": "31/12/2025", "userName": "trample" }
+  { "expirationDate": "31/12/2025", "userName": "trample" },
+  { "expirationDate": "31/12/2025", "userName": "- Trunks" }
 ]
