@@ -9,5 +9,6 @@
   { "expirationDate": "31/12/2025", "userName": "ShadoWolfer" },
   { "expirationDate": "31/12/2025", "userName": "trample" },
   { "expirationDate": "31/12/2025", "userName": "- Trunks" },
-  { "expirationDate": "31/12/2025", "userName": "Giratina" }
+  { "expirationDate": "31/12/2025", "userName": "Giratina" },
+  { "expirationDate": "31/12/2025", "userName": "Meclives" }
 ]
