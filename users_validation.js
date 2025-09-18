@@ -14,5 +14,5 @@
   { "expirationDate": "31/12/2025", "userName": "Sayb0t" },
   { "expirationDate": "31/12/2025", "userName": "FatalFight" },
   { "expirationDate": "31/12/2025", "userName": "SERGINHO1234" },
-  { "expirationDate": "31/12/2025", "userName": "Shady Hyyk" },
+  { "expirationDate": "31/12/2025", "userName": "Shady Hyyk" }
 ]
