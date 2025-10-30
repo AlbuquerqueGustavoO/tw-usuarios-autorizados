@@ -16,5 +16,7 @@
   { "expirationDate": "31/12/2025", "userName": "SERGINHO1234" },
   { "expirationDate": "31/12/2025", "userName": "Shady HyyK" },
   { "expirationDate": "31/12/2025", "userName": "Gringoo" },
-  { "expirationDate": "31/12/2025", "userName": "-knobill" }
+  { "expirationDate": "31/12/2025", "userName": "-knobill" },
+  { "expirationDate": "31/12/2025", "userName": "Deputado Estadual" },
+  { "expirationDate": "31/12/2025", "userName": "testee" }
 ]
