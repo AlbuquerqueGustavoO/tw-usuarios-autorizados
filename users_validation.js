@@ -1,7 +1,7 @@
 [
   { "expirationDate": "31/12/2025", "userName": "NARNIA 3" }, 
   { "expirationDate": "31/12/2025", "userName": "CORVA1" },
-  { "expirationDate": "17/07/2025", "userName": "- The Clown -" },
+  { "expirationDate": "31/12/2025", "userName": "- The Clown -" },
   { "expirationDate": "31/12/2025", "userName": "P I Z A C" },
   { "expirationDate": "31/12/2025", "userName": "tinna" },
   { "expirationDate": "31/12/2025", "userName": "Morcegruz" },
@@ -15,6 +15,7 @@
   { "expirationDate": "31/12/2025", "userName": "FatalFight" },
   { "expirationDate": "31/12/2025", "userName": "SERGINHO1234" },
   { "expirationDate": "31/12/2025", "userName": "Shady HyyK" },
+  { "expirationDate": "31/12/2025", "userName": "Funcionário Público" },
   { "expirationDate": "31/12/2025", "userName": "Gringoo" },
   { "expirationDate": "31/12/2025", "userName": "-knobill" },
   { "expirationDate": "31/12/2025", "userName": "Deputado Estadual" },
