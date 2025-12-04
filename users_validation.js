@@ -31,6 +31,7 @@
   { "expirationDate": "31/12/2025", "userName": "MESLTE OLIMPIO" },
   { "expirationDate": "31/12/2025", "userName": "Hi True-" },
   { "expirationDate": "31/12/2025", "userName": "Colgate99" },
-  { "expirationDate": "31/12/2025", "userName": "By HYPE-" },        
+  { "expirationDate": "31/12/2025", "userName": "By HYPE-" },
+  { "expirationDate": "31/12/2025", "userName": "barbarvore" },
   { "expirationDate": "31/12/2025", "userName": "testee" }
 ]
