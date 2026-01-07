@@ -1,7 +1,7 @@
 [
   { "expirationDate": "31/12/2026", "userName": "NARNIA 3" }, 
   { "expirationDate": "31/12/2026", "userName": "CORVA1" },
-  { "expirationDate": "31/12/2026", "userName": "- The Clown -" },
+  { "expirationDate": "31/12/2026", "userName": "P U T I N" },
   { "expirationDate": "31/12/2026", "userName": "P I Z A C" },
   { "expirationDate": "31/12/2026", "userName": "tinna" },
   { "expirationDate": "31/12/2026", "userName": "Morcegruz" },
