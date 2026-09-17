@@ -24,5 +24,6 @@
   { "expirationDate": "31/12/2026", "userName": "By HYPE-" },
   { "expirationDate": "31/12/2026", "userName": "barbarvore" },
   { "expirationDate": "31/12/2026", "userName": "nightcrawer" },
+  { "expirationDate": "31/12/2026", "userName": "Alesus" },
   { "expirationDate": "31/12/2026", "userName": "testee" }
 ]
